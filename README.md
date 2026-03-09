@@ -12,6 +12,4 @@ Follow this tutorial to understand the basics for your speaker functionality and
 
 ### Soft Speaker
 
-[Soft Speaker]
-
-Make your own fabric speaker
+[Soft Speaker](https://github.com/kingston-hackSpace/DIY_Speaker/blob/main/Soft_Speaker.md) : Make your own fabric speaker
