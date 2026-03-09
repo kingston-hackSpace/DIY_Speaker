@@ -1,9 +1,12 @@
 # Soft Speaker
 ----
 
-### Speaker Basic Physics
+## Speaker Basic Physics
+
 
 **The core idea: electricity and magnetism**
+
+A speaker makes sound because an electromagnet (the embroidered coil) is mounted to a membrane (the fabric) with a permanent magnet close by. 
 
 When electricity flows through a wire, it creates a magnetic field around that wire. The more you coil the wire up, the stronger that magnetic field gets.
 
@@ -26,3 +29,8 @@ That back-and-forth physical movement pushes air, and pushed air is sound.
 **Tips:**
 
 If your coil has touching turns, the electricity short-circuits and just flows straight across instead of going around all the loops — so you get a weak or no magnetic field, no movement, no sound. And potentially a spark!
+
+-----
+## Tutorial
+
+[Embroidered Fabric Speaker](https://www.instructables.com/Embroidered-Fabric-Speaker/)
