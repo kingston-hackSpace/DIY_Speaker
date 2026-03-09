@@ -28,9 +28,24 @@ That back-and-forth physical movement pushes air, and pushed air is sound.
 
 **Tips:**
 
-If your coil has touching turns, the electricity short-circuits and just flows straight across instead of going around all the loops — so you get a weak or no magnetic field, no movement, no sound. And potentially a spark!
+MATERIAL CHECK: Check that your conductive material is properly conducting! Some "copper wire sold in the market come with an insulating layer that insulate the copper, which will prevent from your speaker to work. Use a multimeter and test continuity. 
+
+CHECK SHORT CUTS: If your coil has touching turns, the electricity short-circuits and just flows straight across instead of going around all the loops — so you get a weak or no magnetic field, no movement, no sound. And potentially a spark!
 
 -----
-## Tutorial
+## Tutorials
+
+The following list of tutorial cover the making of "soft speakers". Each of them uses different technics and provide different tips. 
+
+The provide complementary guidance. 
 
 [Embroidered Fabric Speaker](https://www.instructables.com/Embroidered-Fabric-Speaker/)
+
+[Headband Headphones](https://www.instructables.com/Headband-Headphones/?utm_source=Pinterest&utm_medium=organic)
+
+[MAKE: Sew Wearable Soft Speakers](https://makezine.com/projects/soft-speakers/)
+
+-----
+## Art Examples
+
+[Listening to the Leaves](https://technolojie.com/listening-to-the-leaves/)
