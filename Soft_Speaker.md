@@ -69,9 +69,7 @@ The following design parameters will affect the efficiency and sound quality of 
 -----
 ## TUTORIALS
 
-The following list of tutorials cover the making of "soft speakers". Each of them uses different techniques and provide different tips. 
-
-They provide complementary guidance. 
+The following list of tutorials cover the making of "soft speakers". Each of them uses different techniques and provide different tips. They provide complementary guidance: 
 
 [Embroidered Fabric Speaker](https://www.instructables.com/Embroidered-Fabric-Speaker/)
 
@@ -85,6 +83,7 @@ They provide complementary guidance.
 ## Art Examples
 
 [Listening to the Leaves](https://technolojie.com/listening-to-the-leaves/)
+
 ----
 ## Tips:
 
