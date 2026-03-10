@@ -20,7 +20,7 @@ The following design parameters will affect the efficiency and sound quality of 
 
 - **Type of Fabric:** The stiffness of the material you embroider on affects the volumen of your speaker too. Too soft will absorb the vibration, too stiff will prevent the fabric to move... Different fabrics can produce different qualities of sound. Testing is adviced. 
 
-- **Thread/Wire Resistance per meter:**. The electrical resistance of your conductive thread or wire will affect the sound signal. If addding a sound amplifier, the thread/wire resistance must be higher than the amplifier requierement. 
+- **Thread/Wire Resistance per meter:**. The electrical resistance of your conductive thread or wire will affect the sound signal. If adding a sound amplifier, the thread/wire resistance must be higher than the amplifier requierement. 
 
 - **Lenght and diameter of the spiral pattern:**
 
