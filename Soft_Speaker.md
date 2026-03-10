@@ -135,4 +135,10 @@ TO TEST YOUR FINISHED COIL:
 
 - If it reads near 0Ω, your turns are touching somewhere — you have a short circuit
 
+----
+
+## Further Learning
+
+[Conductive Materials](https://github.com/kingston-hackSpace/Conductive_materials)
+
 
