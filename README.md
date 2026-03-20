@@ -1,7 +1,7 @@
 # DIY Speakers
 
 ---
-###
+### Understanding speakers
 
 [How speakers make sound - YOUTUBE](https://www.youtube.com/watch?v=RxdFP31QYAg)
 
@@ -9,7 +9,7 @@
 
 [What Types of Speakers There Are and How They Differ - YOUTUBE](https://www.youtube.com/watch?v=a7t8D0WhGfc)
 
-[How Do Cone Shapes in Loudspeakers Affect Sound?](https://diodiy.com/blogs/news/how-cone-shapes-affect-sound)
+[How Do Cone Shapes in Loudspeakers Affect Sound? - READ](https://diodiy.com/blogs/news/how-cone-shapes-affect-sound)
 
 [How does a smart-phone speaker work - YOUTUBE](https://www.youtube.com/watch?v=jhg90zsjqt4)
 
